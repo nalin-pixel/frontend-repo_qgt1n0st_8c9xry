@@ -3,9 +3,7 @@
 > vite
 
 
-  VITE v5.4.20  ready in 244 ms
+  VITE v5.4.20  ready in 277 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.14.111:3000/
-4:17:52 PM [vite] ✨ new dependencies optimized: qrcode
-4:17:52 PM [vite] ✨ optimized dependencies changed. reloading
